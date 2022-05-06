@@ -1,0 +1,14 @@
+{
+  "version": 3,
+  "configurePresets": [
+    {
+      "name": "test"
+    }
+  ],
+  "buildPresets": [
+    {
+      "name": "test",
+      "configurePreset": "test"
+    }
+  ]
+}
